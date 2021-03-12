@@ -2,6 +2,8 @@ package com.savostikov.practical;
 
 /*
     Реализуйте алгоритм сортировки пузырьком для сортировки массива
+
+    https://habr.com/ru/post/440436/
 */
 public class Ex02 {
 
